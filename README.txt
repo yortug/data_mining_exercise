@@ -11,6 +11,10 @@ FOR YOUR CONVENIENCE THE KNITTED JUPYTER NOTEBOOK IS BEING HOSTED ONLINE HERE:
 
 https://yortug.github.io/data_mining_assignment/data_mining_assignment.html
 
+AND THE FULL REPOSITORY IS BEING HOSTED HERE:
+
+https://github.com/yortug/data_mining_exercise
+
 --------------------------------------------------------------------------------
 
 PRELUDE
