@@ -3,7 +3,7 @@
 
 AUTHOR: TROY ENGELHARDT
 STUDENT ID: 18815179
-DATE: 2019-09-24
+DATE: 2019-09-28
 
 --------------------------------------------------------------------------------
 
@@ -33,9 +33,9 @@ MEASURED USING THE PREDICT.CSV FILE. ALL OTHER FILES ARE SUPPLEMENTARY.
 
 .
 ├── README.txt
-├── analysis.py
 ├── assignment_resources
-│   └── assignment2019.pdf
+│   ├── assignment2019.pdf
+│   └── assignment2019_updated.pdf
 ├── comp3009_assignment_notebook.ipynb
 ├── data2019.student.csv
 ├── declaration_of_originality\ [signed].pdf
@@ -44,6 +44,7 @@ MEASURED USING THE PREDICT.CSV FILE. ALL OTHER FILES ARE SUPPLEMENTARY.
 │   └── comp3009_assignment_notebook.pdf
 ├── predict.csv
 ├── report.pdf
+├── run.py
 ├── train_test_val
 │   ├── arff
 │   │   ├── test.arff
@@ -98,7 +99,7 @@ THE BEST WAY TO RUN THE CODE IS AS FOLLOWS:
   1. OPEN YOUR TERMINAL
   2. NAVIGATE INTO THE PROJECT DIRECTORY
   3. ENTER INTO TERMINAL:
-        > python analysis.py
+        > python run.py
   4. WAIT APPROXIMATELY 10 TO 30 SECONDS FOR EXECUTION TO COMPLETE
   5. OBSERVE THE STRING RESULTS OUTPUT TO YOUR TERMINAL
         I. TABLE OF ACC/F1 (DURING CV) FOR ALL TESTED MODELS
